@@ -51,15 +51,6 @@ Building intelligent systems combining <b>AI, hardware, and immersive interfaces
 
 ---
 
-# 🏆 GitHub Achievements
-
-<p align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=DilshanCheerangan&theme=tokyonight&no-frame=true&row=1&column=7"/>
-
-</p>
-
----
 
 # 🚀 Current Focus
 
@@ -81,8 +72,3 @@ Human-Computer Interaction Systems
 <a href="https://github.com/DilshanCheerangan">
 GitHub Profile
 </a>
-
-</p>
-<p align="center">
-<img src="https://github.com/DilshanCheerangan/DilshanCheerangan/blob/output/github-contribution-grid-snake.svg">
-</p>
