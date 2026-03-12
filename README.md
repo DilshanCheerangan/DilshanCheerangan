@@ -1,16 +1,92 @@
-# Hi, I'm Dilshan 👋
+<!-- PROFILE HEADER -->
 
-AI Systems Builder | XR Developer | Full-Stack Engineer
+<h1 align="center">Hi 👋 I'm Dilshan Cheerangan</h1>
+<p align="center">
+AI Systems Builder • XR Developer • Full-Stack Engineer
+</p>
 
-I build intelligent systems combining AI, hardware, and immersive interfaces.
+<p align="center">
+Building intelligent systems combining <b>AI, hardware, and immersive interfaces</b>
+</p>
 
-Currently focused on:
-• AI for agriculture
-• Sign language translation systems
-• WebXR and immersive applications
+---
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=DilshanCheerangan&show_icons=true&theme=tokyonight)
+<p align="center">
+<img src="https://komarev.com/ghpvc/?username=DilshanCheerangan&color=blueviolet&style=for-the-badge"/>
+<img src="https://visitor-badge.laobi.icu/badge?page_id=DilshanCheerangan"/>
+</p>
 
-[![GitHub Streak](https://streak-stats.demolab.com/?user=DilshanCheerangan&theme=tokyonight)](https://git.io/streak-stats)
+---
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DilshanCheerangan&layout=compact&theme=tokyonight)
+# ⚙️ Tech Stack
+
+<p align="center">
+<img src="https://skillicons.dev/icons?i=python,js,ts,react,nodejs,threejs,tensorflow,opencv,docker,git,linux,vscode" />
+</p>
+
+---
+
+# 📊 GitHub Statistics
+
+<p align="center">
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=DilshanCheerangan&show_icons=true&theme=tokyonight&hide_border=true"/>
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DilshanCheerangan&layout=compact&theme=tokyonight&hide_border=true"/>
+
+</p>
+
+---
+
+# 🔥 Contribution Streak
+
+<p align="center">
+
+<img src="https://streak-stats.demolab.com?user=DilshanCheerangan&theme=tokyonight&hide_border=true"/>
+
+</p>
+
+---
+
+# 📈 Contribution Graph
+
+<p align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=DilshanCheerangan&theme=tokyo-night&hide_border=true"/>
+
+</p>
+
+---
+
+# 🏆 GitHub Achievements
+
+<p align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=DilshanCheerangan&theme=tokyonight&no-frame=true&row=1&column=7"/>
+
+</p>
+
+---
+
+# 🚀 Current Focus
+
+<p align="center">
+
+AI-Driven Agriculture Systems
+Sign Language Translation Technologies
+WebXR Immersive Applications
+Human-Computer Interaction Systems
+
+</p>
+
+---
+
+# 🌐 Connect
+
+<p align="center">
+
+<a href="https://github.com/DilshanCheerangan">
+GitHub Profile
+</a>
+
+</p>
