@@ -18,13 +18,6 @@ Building intelligent systems combining <b>AI, hardware, and immersive interfaces
 
 ---
 
-# ⚙️ Tech Stack
-
-<p align="center">
-<img src="https://skillicons.dev/icons?i=python,js,ts,react,nodejs,threejs,tensorflow,opencv,docker,git,linux,vscode" />
-</p>
-
----
 
 # 📊 GitHub Statistics
 
@@ -90,3 +83,4 @@ GitHub Profile
 </a>
 
 </p>
+![snake gif](https://github.com/DilshanCheerangan/DilshanCheerangan/blob/output/github-contribution-grid-snake.svg)
